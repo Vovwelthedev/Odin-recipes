@@ -1,20 +1,52 @@
-*{padding: 10px;
-  margin: 20px;
-  font-size: 40px;}
+*{color: white;}
 
 .boxfr {
   background-color: darkgreen;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 40px;
 }
 
 .boxjr {
   background-color: saddlebrown;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 40px;
 }
 
 .boxes {
   background-color: darkgoldenrod;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 40px;
 }
 
 .frc {
   background-color: black;
   color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
 }
+
+.Egusi,
+.Jollof,
+.Fried
+{
+  background-color: rgb(5, 5, 5);
+  color: whitesmoke;
+  padding: 20px;
+}
+
+.home {
+  background-color: darkgreen;
+  color: thistle;
+  padding: fit-content;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-block-end: 5px;
+  height: fit-content;
+  width: fit-content;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  }
